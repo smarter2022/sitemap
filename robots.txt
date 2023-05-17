@@ -1,4 +1,2 @@
-```
 User-agent: *
 Sitemap: https://smarter2022.github.io/sitemap.xml
-```
